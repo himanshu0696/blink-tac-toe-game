@@ -8,7 +8,7 @@ The objective is to create a 2-player game in which players choose emoji categor
 
 ## Live Demo
 
-[Paste your live deployed link here]
+https://spontaneous-bunny-244505.netlify.app/
 
 ## Tech Stack
 
